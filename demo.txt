@@ -1,1 +1,2 @@
 Here is some text in the demo.txt file that was added directly from the UI in GitHub.
+This second line of text is added from the local copy and I will 'git push' the edits back to the server.
